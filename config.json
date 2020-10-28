@@ -1,0 +1,6 @@
+{
+	"prefix": "^",
+	"token": "Insert_Your_Token_Here",
+	"forbiddenPhrases": ["b", "Curse_Words_Here"],
+	"acceptableUserID": ["206960013229424640", "305207769370198026"]
+}
